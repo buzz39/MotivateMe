@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@your-github-username](https://github.com/buzz39)
+- GitHub: [@buzz39](https://github.com/buzz39)
 
 ## 🙏 Acknowledgments
 
